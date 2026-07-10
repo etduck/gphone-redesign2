@@ -1,0 +1,6 @@
+{
+  "name": "Gaga Phone System",
+  "description": "Gaga Phone background management system featuring overview dashboard, phonebook, AI character configuration, system settings, and automatic alarm controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
